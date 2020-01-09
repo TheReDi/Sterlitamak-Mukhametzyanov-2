@@ -1,1 +1,2 @@
-# Sterlitamak-Mukhametzyanov-2
+# Задание YaNDeX номер 2
+Cтepлитaмaк/Myxамeтзянoв
